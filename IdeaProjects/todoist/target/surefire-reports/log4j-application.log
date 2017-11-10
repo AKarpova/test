@@ -1,0 +1,63 @@
+2017-10-30 11:48:25    INFO  StartPage:clckButtonAdd:17 - Нажимаем на кнопку Добавить задачу
+2017-10-30 12:52:24    INFO  StartPage:clickLogin:25 - Нажимаем в верхнем меню на пункт Войти
+2017-10-30 12:53:41    INFO  StartPage:loginWithGoogle:30 - Логинимся через аккаунт Google
+2017-10-30 12:54:58    INFO  StartPage:clickLogin:25 - Нажимаем в верхнем меню на пункт Войти
+2017-10-30 12:55:00    INFO  StartPage:loginWithGoogle:30 - Логинимся через аккаунт Google
+2017-10-30 12:57:37    INFO  StartPage:clickLogin:25 - Нажимаем в верхнем меню на пункт Войти
+2017-10-30 12:57:39    INFO  StartPage:loginWithGoogle:30 - Логинимся через аккаунт Google
+2017-10-30 12:59:14    INFO  StartPage:clickLogin:25 - Нажимаем в верхнем меню на пункт Войти
+2017-10-30 13:01:06    INFO  StartPage:loginWithGoogle:30 - Логинимся через аккаунт Google
+2017-10-30 13:03:09    INFO  StartPage:loginWithGoogle:30 - Логинимся через аккаунт Google
+2017-10-30 13:11:00    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:13:08    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:14:47    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:30:13    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:31:43    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:33:21    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 13:36:03    INFO  StartPage:clckButtonAdd:36 - Нажимаем на кнопку Добавить задачу
+2017-10-30 16:38:31    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:38:33    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:38:34    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:41:29    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:41:31    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:41:33    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:43:13    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:43:14    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:43:16    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:45:01    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:45:03    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:45:05    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:46:20    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:46:22    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:46:24    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:49:00    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:49:02    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:49:04    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:51:21    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:51:23    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:51:25    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 16:56:51    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 16:56:53    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 16:56:54    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:02:53    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:03:22    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:04:07    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:06:09    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:06:11    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:06:13    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:10:17    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:10:19    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:10:20    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:11:39    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:15:30    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:15:32    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:15:33    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:21:36    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:21:37    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:21:38    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:39:42    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:39:44    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:39:45    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти
+2017-10-30 17:40:22    INFO  StartPage:setEmail:44 - Вводим email
+2017-10-30 17:40:24    INFO  StartPage:setPassword:49 - Вводим пароль
+2017-10-30 17:40:25    INFO  StartPage:pressButtonSubmit:54 - Нажимаем на кнопку Войти

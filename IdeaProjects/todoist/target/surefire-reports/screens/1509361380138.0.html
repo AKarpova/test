@@ -1,0 +1,19 @@
+<html><head>
+        <link href="NewErrorPageTemplate.css" rel="stylesheet" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script language="javascript" src="httpErrorPagesScripts.js" type="text/javascript">
+        </script>
+        <title>Не удается отобразить эту страницу</title>
+    </head>
+
+    <body onload="javascript:addURL();">
+        <div class="mainContent" id="contentContainer">
+            <div class="title" id="mainTitle">Не удается отобразить эту страницу</div>
+            <div class="taskSection">
+                <p id="task1">Включите TLS 1.0, TLS 1.1 и TLS 1.2 в дополнительных параметрах и повторите попытку подключения к <b><span class="webpageURL" id="webpage">https://ru.todoist.com </span></b>. Если ошибка повторяется, возможно, этот сайт использует неподдерживаемый протокол или комплект шифров, например RC4 <a href="http://go.microsoft.com/fwlink/?LinkId=735074">(ссылка на статью со сведениями)</a>, который не считается безопасным. Обратитесь к администратору сайта.</p>
+            </div>
+            <div><button class="launchInternetOptionsButton" id="launchInternetOptions" onclick="javascript:launchInternetOptions(); return false;">Изменить параметры</button></div>
+        </div>
+    
+
+</body></html>

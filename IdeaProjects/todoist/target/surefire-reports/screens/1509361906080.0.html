@@ -1,0 +1,155 @@
+<html><head>
+        <link href="ErrorPageTemplate.css" rel="stylesheet" type="text/css">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <title>HTTP 400 — ошибочный запрос</title>
+
+        <script language="javascript" src="errorPageStrings.js" type="text/javascript">
+        </script>
+        <script language="javascript" src="httpErrorPagesScripts.js" type="text/javascript">
+        </script>
+    </head>
+
+    <body onload="javascript:initHomepage(); expandCollapse('infoBlockID', true); initGoBack(); initMoreInfo('infoBlockID');">
+
+        <table width="730" border="0" cellspacing="0" cellpadding="0">
+
+        <!-- Error title -->
+            <tbody><tr>
+                <td width="60" align="left" id="infoIconAlign" valign="top" rowspan="2">
+                    <img id="infoIcon" alt="Значок информации" src="info_48.png">
+                </td>
+                <td width="*" align="left" id="mainTitleAlign" valign="middle">
+                    <h1 id="mainTitle">Не удается найти веб-страницу</h1>
+                </td>
+            </tr>
+
+
+
+            <tr>
+                <!-- This row is for HTTP status code, as well as the divider-->
+                <td align="right" class="errorCodeAndDivider" id="http400Align"><id id="http400">&nbsp;HTTP 400</id>
+                    <div class="divider"></div>
+                </td>
+            </tr>
+
+
+        <!-- Error Body -->
+
+        <!-- What you can do -->
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td align="left" id="likelyCausesAlign" valign="top">
+                    <h3 id="likelyCauses">Возможные причины:</h3>
+                    <ul>
+                        <li id="causeErrorInAddress">Возможно, в адресе опечатка.</li>
+                        <li id="causeLinkOutOfDate">Если вы щелкнули ссылку, возможно, она устарела.</li>
+                    </ul>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td align="left" id="whatToTryAlign" valign="top">
+                    <h2 id="whatToTry">Попробуйте сделать вот что:</h2>
+                </td>
+            </tr>
+
+        <!-- retype address -->
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td align="left" id="retypeAddressAlign" valign="middle">
+                    <h4>
+                        <table>
+                          <tbody><tr>
+                              <td valign="top">
+                                  <img class="actionIcon" alt="" src="bullet.png" border="0">
+                              </td>
+                              <td valign="top">
+                                  <id id="retypeAddress">Введите адрес снова.</id>
+                              </td>
+                          <tr>
+                        </tr></tbody></table>
+                    </h4>
+                </td>
+            </tr>
+
+        <!-- back to previous page -->
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td align="left" id="goBackAlign" valign="middle">
+                    <h4>
+                        <table>
+                          <tbody><tr>
+                              <td valign="top">
+                                  <img class="actionIcon" alt="" src="bullet.png" border="0">
+                              </td>
+                              <td valign="top">
+                                  <span id="goBackContainer"><a href="javascript:history.back();">Вернитесь на предыдущую страницу.</a></span><noscript id="goBack">Вернитесь на предыдущую страницу.</noscript>
+                              </td>
+                          </tr>
+                        </tbody></table>
+                    </h4>
+                </td>
+            </tr>
+
+
+        <!-- top level domain-->
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td align="left" id="mainSiteAlign" valign="middle">
+                    <h4>
+                        <table>
+                          <tbody><tr>
+                              <td valign="top">
+                                  <img class="actionIcon" alt="" src="bullet.png" border="0">
+                              </td>
+                              <td valign="top">
+                                  <id id="mainSite1">Переход </id><span id="homepageContainer"><noscript id="mainSite2">основной веб-сайт</noscript><a href=""></a></span><id id="mainSite3">&nbsp; и найдите нужную информацию.</id>
+                              </td>
+                          </tr>
+                        </tbody></table>
+                    </h4>
+                </td>
+            </tr>
+
+        <!-- InfoBlock -->
+            <tr>
+                <td align="right" id="infoBlockAlign" valign="top">
+                    &nbsp;
+                </td>
+                <td align="left" id="moreInfoAlign" valign="middle">
+                    <h4>
+                        <table>
+                          <tbody><tr>
+                              <td valign="top">
+                                  <a onclick="javascript:expandCollapse('infoBlockID', true); return false;" href="#"><img class="actionIcon" id="infoBlockIDImage" alt="Подробнее" src="down.png" border="0"></a>
+                              </td>
+                              <td valign="top">
+                                  <span id="moreInfoContainer"><a href="javascript:expandCollapse('infoBlockID', true);">Подробнее</a></span>
+                                  <noscript>&lt;ID id="moreInformation"&gt;Подробнее&lt;/ID&gt;</noscript>
+                              </td>
+                          </tr>
+                        </tbody></table>
+                    </h4>
+                    <div class="infoBlock" id="infoBlockID" style="display: none;">
+                        <p id="errorExplanation">Эта ошибка (HTTP 400 — ошибочный запрос) означает, что браузер Internet Explorer смог подключиться к веб-серверу, но веб-страницу не удалось найти из-за ошибки в адресе.</p>
+                        <p id="moreInfoSeeHelp">Дополнительные сведения об ошибках HTTP см. в справке.</p>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+
+    
+</body></html>
